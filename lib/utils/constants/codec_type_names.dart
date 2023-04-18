@@ -1,0 +1,32 @@
+import 'package:easy_localization/easy_localization.dart';
+
+final List<String> codecTypeNames = [
+  'default'.tr(),
+  'UTF-8',
+  'ASCII',
+  'Latin 1 / ISO 8859-1',
+  'Latin 2 / ISO 8859-2',
+  'Latin 3 / ISO 8859-3',
+  'Latin 4 / ISO 8859-4',
+  'Latin 5 / ISO 8859-5',
+  'Latin 6 / ISO 8859-6',
+  'Latin 7 / ISO 8859-7',
+  'Latin 8 / ISO 8859-8',
+  'Latin 9 / ISO 8859-9',
+  'Latin 10 / ISO 8859-10',
+  'Latin 11 / ISO 8859-11',
+  'Latin 13 / ISO 8859-13',
+  'Latin 14 / ISO 8859-14',
+  'Latin 15 / ISO 8859-15',
+  'Latin 16 / ISO 8859-16',
+  'Windows-1250 / cp-1250',
+  'Windows-1251 / cp-1251',
+  'Windows-1252 / cp-1252',
+  'Windows-1253 / cp-1253',
+  'Windows-1254 / cp-1254',
+  'Windows-1256 / cp-1256',
+  'DOS / cp-850',
+  'GBK',
+  'KOI8',
+  'Big5'
+];

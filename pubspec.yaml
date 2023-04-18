@@ -1,0 +1,48 @@
+name: barcode_manager_flutter
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  enough_convert: ^1.6.0
+  barcode: ^2.2.3
+  vibration: ^1.7.6
+  scan: ^1.6.0
+  mobile_scanner: ^3.2.0
+  image_picker: ^0.8.4+4
+  path_provider: ^2.0.11
+  clipboard: ^0.1.3
+  url_launcher: ^6.1.6
+  easy_localization: ^3.0.1
+  flutter_svg: ^2.0.5
+  sliding_up_panel: ^2.0.0+1
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+    - family: Arabic
+      fonts:
+        - asset: assets/fonts/Arabic-Regular.ttf
+
+  assets:
+    - assets/translations/

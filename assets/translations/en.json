@@ -1,0 +1,45 @@
+{
+    "family":"Montserrat",
+
+    "barcode_manager":"Barcode Manager",
+    "scanner":"Scanner",
+    "generator":"Generator",
+
+    "type_text_here":"Type some text to generate a code",
+    "error_type_text":"Please type some text to convert",
+    "text":"Text",
+    "encrypted_text_copied":"Encrypted text copied to the clipboard",
+    "copy_encrypted_text":"Copy To Clipboard",
+    "can_not_open_page":"Can't open this page!",
+    "generate_same_code":"Generate Similar Code",
+    "saved_in":"Image saved at the path",
+    "save_as_image":"Save As Image",
+
+    "invalid_barcode":"Invalid barcode",
+    "code_detected":"Code detected",
+    "scan_code":"Scan Code",
+    "text_copied":"Copied to the clipboard",
+    "copy_text":"Copy To Clipboard",
+    "edit_text":"Edit Text",
+    "normal_scan":"Normal Scan",
+
+    "settings":"Settings",
+    "language":"Language",
+
+    "encoding_type":"Encoding Type",
+    "decoding_type":"Decoding Type",
+    "default":"Default",
+    "barcode_type":"Barcode Type",
+    "can_not_generate_barcode":"Can not generate a barcode, please change the text and try again",
+    "no_barcode_info":"There is no info in this barcode",
+    "longitude":"Longitude",
+    "latitude":"Latitude",
+    "phone_number":"Phone number",
+    "message":"Message",
+    "ssid":"SSID",
+    "password":"Password",
+    "scan_results":"Scan Results",
+    "no_results":"No results yet",
+    "wifi_qr_code":"Wi-Fi QR Code",
+    "generate":"Generate"
+}

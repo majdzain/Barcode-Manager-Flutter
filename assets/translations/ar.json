@@ -1,0 +1,45 @@
+{
+    "family":"Arabic",
+    "barcode_manager":"مدير الباركود",
+    "scanner":"الماسح",
+    "generator":"المولد",
+
+    "type_text_here":"اكتب النص لتوليد الكود",
+    "error_type_text":"يرجى كتابة نص لتحويله",
+    "text":"النص",
+    "encrypted_text_copied":"تم نسخ الكود المشفر",
+    "copy_encrypted_text":"نسخ الكود المشفر إلى الحافظة",
+    "can_not_open_page":"لا يمكن فتح هذه الصفحة",
+    "generate_same_code":"توليد كود مشابه",
+    "saved_in":"تم حفظ الصورة في المسار",
+    "save_as_image":"حفظ كصورة",
+
+    "invalid_barcode":"هذا الباركود غير صالح",
+    "code_detected":"تم تحديد الكود",
+    "scan_code":"امسح الكود",
+    "text_copied":"تم نسخ النص",
+    "copy_text":"نسخ إلى الحافظة",
+    "edit_text":"تعديل النص",
+    "normal_scan":"مسح طبيعي",
+
+    "settings":"الإعدادات",
+    "language":"اللغة",
+
+    "encoding_type":"نوع التشفير",
+    "decoding_type":"نوع فك التشفير",
+    "default":"Default",
+    "barcode_type":"نوع الباركود",
+    "can_not_generate_barcode":"لا يمكن توليد باركود, يرجى تغيير النص وإعادة المحاولة",
+    "no_barcode_info":"لا يوجد معلومات في هذا الباركود",
+    "longitude":"إحداثيات الطول",
+    "latitude":"إحداثيات العرض",
+    "phone_number":"رقم الموبايل",
+    "message":"الرسالة",
+    "ssid":"اسم الشبكة",
+    "password":"كلمة المرور",
+    "scan_results":"نتائج المسح",
+    "no_results":"لا يوجد نتائج مسح بعد",
+    "wifi_qr_code":"Wi-Fi QR Code",
+    "generate":"توليد"
+
+}
