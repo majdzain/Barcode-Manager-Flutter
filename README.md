@@ -24,7 +24,7 @@ A flutter application that supports all the barcode services (Scan - Generate) w
 
 Generate QR Code   |  Generate PDF417 Barcode   |  Generate Wi-Fi QR   |  Scan Multiple Barcodes
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![generator-qr](screenshots/generator1.jpg)  |  ![generator-pdf417](screenshots/generator3.jpg)  |  ![generator-wifi](screenshots/generator-wifi.jpg)  |  ![scanner](screenshots/scanner.jpg)
+![generator-qr](screenshots/generator1.jpg)  |  ![generator-pdf417](screenshots/generator3.jpg)  |  ![generator-wifi](screenshots/generator_wifi.jpg)  |  ![scanner](screenshots/scanner.jpg)
 
 ## The Used Codec Formats
 - UTF-8
